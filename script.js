@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('.collapsible-header').click(function() {
-        $(this).next('.collapsible-body').slideToggle(500);
+        $(this).next('.collapsible-body').slideToggle(10000);
         $(this).toggleClass('active');
     });
 });
