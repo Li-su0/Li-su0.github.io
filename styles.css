@@ -10,7 +10,7 @@
     font-size: 15px;
 }
 
-.active, .collapsible-header {
+.active, .collapsible{
     background-color: #555;
 }
 
